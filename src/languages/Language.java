@@ -152,4 +152,5 @@ public interface Language {
     public String getCREATE_TITLE();
     public String getNOT_FILLED();
 
+    public String getGUEST_MAIN_MENU();
 }
